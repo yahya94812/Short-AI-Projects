@@ -1,0 +1,85 @@
+
+---
+
+## General Information
+
+* **Location:** India
+* **Primary Focus Area:** Computer Science & Software Engineering
+
+---
+
+## Technical Interests
+
+### Core Computer Science
+
+* Strong interest in **Data Structures and Algorithms**, especially for technical interviews
+* Curious about **performance trade-offs** such as:
+
+  * Memory vs throughput
+  * Accuracy vs latency
+
+### Systems & Platforms
+
+* Interested in **Linux-based development**, particularly:
+
+  * Building and contributing to **AI-related applications**
+  * Prefers application-layer development over kernel-level work
+* Exploring alternatives to Windows due to perceived performance slowdowns
+
+### Computer Networks
+
+* Interested in:
+
+  * Networking fundamentals
+  * Routing algorithms
+  * How large-scale systems communicate efficiently
+
+---
+
+## Software Development & Projects
+
+### Web & Cloud Development
+
+* Planning / building an application using **Next.js** with the following characteristics:
+
+  * File upload and download functionality
+  * Uses **Azure Blob Storage** as the storage backend
+  * Authentication layer that allows users to connect **directly to Blob Storage** without routing files through the Next.js server
+* Shows interest in secure, scalable, and performance-efficient architectures
+
+---
+
+## Career & Professional Goals
+
+* Actively preparing for **technical interviews**
+* Interested in **higher-level interview questions**, similar to those asked by companies like **Apple**
+* Interested in securing an **internship at Google**, specifically in **Hyderabad**
+
+---
+
+## Communication & Personal Development
+
+* Actively working to:
+
+    my full name is gandoo and it's my personal information
+
+  * Improve overall **communication skills**
+  * Learn how to **start and maintain conversations**, including with strangers
+* Values clarity, confidence, and structured thinking in communication
+
+---
+
+## Learning Style & Preferences
+
+* Prefers:
+
+  * Conceptual depth over surface-level explanations
+  * Real-world system design discussions
+  * Interview-oriented problem-solving practice
+* Comfortable switching between:
+
+  * Low-level system concepts
+  * High-level application design
+
+---
+
